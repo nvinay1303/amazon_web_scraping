@@ -18,3 +18,9 @@ The objective of this project is explore web scraping with Beautifulsoup and how
   - Cover type
   - Price
 - Saves the extracted data to a CSV file
+
+A snapshot of the extracted data in the csv file can be seen below - 
+
+![alt text](image.png)
+
+How cool! Isn't it?
